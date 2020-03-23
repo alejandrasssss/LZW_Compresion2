@@ -1,0 +1,35 @@
+C:\Users\BRANDON\source\repos\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.deps.json
+C:\Users\BRANDON\source\repos\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.runtimeconfig.json
+C:\Users\BRANDON\source\repos\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.runtimeconfig.dev.json
+C:\Users\BRANDON\source\repos\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.dll
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.csprojAssemblyReference.cache
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.RazorAssemblyInfo.cache
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.RazorAssemblyInfo.cs
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.AssemblyInfoInputs.cache
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.AssemblyInfo.cs
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.RazorTargetAssemblyInfo.cache
+C:\Users\BRANDON\source\repos\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.pdb
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.dll
+C:\Users\BRANDON\source\repos\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.pdb
+C:\Users\Usuario\Desktop\Quinto ciclo\Estructura de Datos II\Tareas\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Quinto ciclo\Estructura de Datos II\Tareas\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Quinto ciclo\Estructura de Datos II\Tareas\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Quinto ciclo\Estructura de Datos II\Tareas\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Quinto ciclo\Estructura de Datos II\Tareas\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Quinto ciclo\Estructura de Datos II\Tareas\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.dll
+C:\Users\Usuario\Desktop\Quinto ciclo\Estructura de Datos II\Tareas\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.pdb
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.csprojAssemblyReference.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.RazorAssemblyInfo.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.RazorAssemblyInfo.cs
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.AssemblyInfoInputs.cache
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.AssemblyInfo.cs
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.dll
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.pdb
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.deps.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.runtimeconfig.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.runtimeconfig.dev.json
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.dll
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\bin\Debug\netcoreapp2.2\Lzw_compresion2.pdb
+C:\Users\BRANDON\Desktop\primer ciclo 2020\Lenguajes\proyecto\Lzw_compresion2\obj\Debug\netcoreapp2.2\Lzw_compresion2.RazorTargetAssemblyInfo.cache
